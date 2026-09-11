@@ -33,15 +33,15 @@ _Example output. Synthetic data from a fictional workstation — not a real mach
 | Field | Value |
 |---|---|
 | Active interface | en0 |
-| IPv4 address | 192.168.10.24 |
-| Default gateway | 192.168.10.1 |
-| DNS servers | 192.168.10.1, 192.168.10.2 |
+| IPv4 address | 198.51.100.24 |
+| Default gateway | 198.51.100.1 |
+| DNS servers | 198.51.100.1, 198.51.100.2 |
 
 **Connectivity**
 
 | Test | Result |
 |---|---|
-| Gateway reachable | PASS (192.168.10.1) |
+| Gateway reachable | PASS (198.51.100.1) |
 | DNS resolution | **FAIL** — DNS not resolving |
 | Internet (1.1.1.1) | PASS — 18 ms avg |
 
